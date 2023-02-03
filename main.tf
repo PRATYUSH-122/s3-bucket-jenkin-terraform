@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-2"
-  access_key = ""
-  secret_key = ""
+  access_key = "AKIAVXOD6YA5GTR7QI66"
+  secret_key = "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"
 }
 
 #1 -this will create a S3 bucket in AWS
